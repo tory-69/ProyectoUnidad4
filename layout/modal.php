@@ -21,7 +21,7 @@
 							David Alejandro Garza García.
 						</h4>
 						<h4 class="tPrincipal colorLetra centrar">
-							Marco Antonio Ipólito Mtz.
+							Marco Antonio Hipólito Mtz.
 						</h4>
 
 						<h4 class="tPrincipal colorLetra centrar">
